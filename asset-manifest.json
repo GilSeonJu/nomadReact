@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nomadReact.git/static/css/main.cc79c9c6.css",
-    "main.js": "/nomadReact.git/static/js/main.c8616741.js",
-    "index.html": "/nomadReact.git/index.html",
-    "main.cc79c9c6.css.map": "/nomadReact.git/static/css/main.cc79c9c6.css.map",
-    "main.c8616741.js.map": "/nomadReact.git/static/js/main.c8616741.js.map"
+    "main.css": "/nomadReact/static/css/main.cc79c9c6.css",
+    "main.js": "/nomadReact/static/js/main.985a1245.js",
+    "index.html": "/nomadReact/index.html",
+    "main.cc79c9c6.css.map": "/nomadReact/static/css/main.cc79c9c6.css.map",
+    "main.985a1245.js.map": "/nomadReact/static/js/main.985a1245.js.map"
   },
   "entrypoints": [
     "static/css/main.cc79c9c6.css",
-    "static/js/main.c8616741.js"
+    "static/js/main.985a1245.js"
   ]
 }
